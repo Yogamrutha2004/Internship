@@ -9,14 +9,14 @@ body {
   background: #f4f4f4;
 }
 
-/* Container */
+
 .container {
   width: 90%;
   max-width: 1100px;
   margin: auto;
 }
 
-/* Navbar */
+
 .navbar {
   background: #0d6efd;
   color: white;
@@ -35,14 +35,14 @@ body {
   text-decoration: none;
 }
 
-/* Hero */
+
 .hero {
   background: #e9ecef;
   text-align: center;
   padding: 60px 20px;
 }
 
-/* Button */
+
 .btn {
   background: #0d6efd;
   color: white;
@@ -53,7 +53,7 @@ body {
   border-radius: 5px;
 }
 
-/* Services */
+
 .services {
   display: flex;
   gap: 20px;
@@ -71,7 +71,7 @@ body {
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
-/* Contact */
+
 .contact {
   background: #e9ecef;
   padding: 50px 0;
@@ -85,7 +85,7 @@ body {
   margin: 10px 0;
 }
 
-/* Footer */
+
 .footer {
   background: #0d6efd;
   color: white;
@@ -93,7 +93,7 @@ body {
   padding: 15px 0;
 }
 
-/* Responsive */
+
 @media (max-width: 768px) {
   .nav-flex {
     flex-direction: column;

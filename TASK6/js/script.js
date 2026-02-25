@@ -37,7 +37,7 @@ function showCallback() {
         processUser("Student", greet);
 }
 
-// Show initial message on page load
+
 window.addEventListener('DOMContentLoaded', () => {
     document.getElementById('output').innerText = 'Click a button to see the output!';
 });

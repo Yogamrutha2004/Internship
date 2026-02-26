@@ -27,7 +27,7 @@ body {
 
 
 .card-header {
-  background: #2b6edc;
+  background: #00b4d8;
   color: white;
   text-align: center;
   padding: 18px;
@@ -58,7 +58,7 @@ select {
 
 button {
   padding: 14px;
-  background: #2b6edc;
+  background: #00b4d8;
   color: white;
   border: none;
   border-radius: 6px;
@@ -67,7 +67,7 @@ button {
 }
 
 button:hover {
-  background: #1e5fd0;
+  background: #0096c7;
 }
 
 
